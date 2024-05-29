@@ -1,0 +1,13 @@
+#packages
+yarn.lock
+package-lock
+/node_modules
+
+#development
+test.ts
+
+#env
+.env
+
+#build
+/dist
